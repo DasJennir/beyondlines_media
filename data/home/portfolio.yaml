@@ -3,37 +3,32 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Improve Your Sales"
+    title: "Reaching More Clients"
+    text: "With our services it is guaranteed that your business will get more user reachability leading to more sales."
 
     buttons: 
-      - label: "See live"
-        url: "#"
+      - label: "Contact Us"
+        url: "https://www.instagram.com/beyondlines_digital/"
 
-      - label: "Read more"
-        url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/services-web-development.png"
+    pretitle: "Get More Website Visibility"
+    title: "Improve Your SEO"
+    text: "It is really important to have a good SEO for your website to be more visible on the internet, with our knowledge we can make your website be the first of the list on the search browsers."
 
     buttons: 
-      - label: "See live"
-        url: "#"
+      - label: "Contact Us"
+        url: "https://www.instagram.com/beyondlines_digital/"
 
-      - label: "Read more"
-        url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+  - image: "images/rocket.png"
+    pretitle: "Get a Fresh Look"
+    title: "Enhance Your Social Media"
+    text: "Looking to improve your social media design? BeyondLine is the perfect choice, get better post designs, hashtag selection, and a better bio description. "
 
     buttons: 
-      - label: "See live"
-        url: "#"
+      - label: "Contact Us"
+        url: "https://www.instagram.com/beyondlines_digital/"
 
-      - label: "Read more"
-        url: "#"

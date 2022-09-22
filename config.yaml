@@ -2,38 +2,39 @@ baseURL: "https://www.example.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "Beyond Lines"
 
 # googleAnalytics: ""
 
 summaryLength: 20
+enableEmoji: true
+
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "Web Marketing"
+  description: "Planning, innovating & analyzing your social media to help grow your business"
   images: 
-    - "images/hero-image.png"
+    - "images/LOGO5.png"
 
-  logo: "arrow-up.png"
+  logo: "images/LOGO5.png"
 
   favicons:
-    themeColor: "#FFFFFF"
+    themeColor: "#484e68"
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
   social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
+    instagram: "https://www.instagram.com/beyondlines_digital/"
+    facebook: "https://www.facebook.com/profile.php?id=100085933003386"
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "Toronto, ON"
+
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "beyondlinesdigital@gmail.com"
+    
 
   copyright: "© 2022 Up Business All Rights Reserved"
 
@@ -46,15 +47,11 @@ menus:
       weight: 1
 
     - name: "How we work"
-      url: "/#"
+      url: "/post/procedures"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
     - name: "Pricing"
-      url: "/#"
+      url: "/post/pricing"
       weight: 4
 
     - name: "Blog"
@@ -62,8 +59,8 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Book a call"
-      url: "/#"
+    - name: "Book a Appoitment"
+      url: "https://www.instagram.com/beyondlines_digital/"
       weight: 5
       pre: "btn btn-primary text-light"
 
@@ -73,15 +70,11 @@ menus:
       weight: 1
 
     - name: "How we work"
-      url: "/#"
+      url: "/post/procedures"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
     - name: "Pricing"
-      url: "/#"
+      url: "/post/pricing"
       weight: 4
 
     - name: "Blog"

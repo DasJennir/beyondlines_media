@@ -2,8 +2,8 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
-  image: "images/services-web-development.png"
+  title: "Interested ? Contact Us !"
+  image: "images/talk.png"
   button:
     label: "Let's talk"
-    url: "#"
+    url: "https://www.instagram.com/beyondlines_digital/"

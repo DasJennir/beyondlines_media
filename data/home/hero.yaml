@@ -3,11 +3,11 @@ id: "hero"
 
 content:
   title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  text: "BeyondLines praises for your company success, every company is capable of getting more sales, and we make sure to make it as smoothly as possible."
 
   buttonPrimary:
     label: "How we work"
-    url: "#"
+    url: "/post/procedures/"
 
   buttonSecondary:
     label: "Let's talk"
