@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://main--bespoke-meringue-8be5ff.netlify.app/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
